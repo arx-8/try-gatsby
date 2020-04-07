@@ -6,7 +6,7 @@ const Banner = props => (
   <section id="banner">
     <div className="content">
       <header>
-        <h2>The future has landed</h2>
+        <h2>The HYKT SNG's future has landed</h2>
         <p>
           And there are no hoverboards or flying cars.
           <br />
